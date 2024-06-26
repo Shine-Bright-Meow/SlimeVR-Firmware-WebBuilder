@@ -27,8 +27,8 @@ export function ProgressStep({
   const url = useMemo<string>(
     () =>
       Math.floor(Math.random() * 3) === 0
-        ? "https://www.youtube.com/embed/lpiB2wMc49g?autoplay=1"
-        : "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        ? "https://www.youtube.com/embed/ttEBSJmgBTo?autoplay=1"
+        : "https://www.youtube.com/embed/78ngmG_-Yck?autoplay=1",
     [],
   );
 
