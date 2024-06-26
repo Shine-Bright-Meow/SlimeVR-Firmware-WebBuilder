@@ -14,6 +14,14 @@ async function bootstrap() {
     configService.getHostUrl(),
     "http://localhost:5173",
     "http://localhost:5174",
+    "http://slimevr.shinebright.dev:5173",
+    "http://slimevr.shinebright.dev:5174",
+    "https://slimevr.shinebright.dev:5173",
+    "https://slimevr.shinebright.dev:5174",
+    "http://slimevr-s3.shinebright.dev:5173",
+    "http://slimevr-s3.shinebright.dev:5174",
+    "https://slimevr-s3.shinebright.dev:5173",
+    "https://slimevr-s3.shinebright.dev:5174",
   ];
 
   const app = await NestFactory.create(AppModule, {
@@ -22,7 +30,10 @@ async function bootstrap() {
         if (!origin || corsWhitelist.indexOf(origin) !== -1) {
           callback(null, true);
         } else {
-          callback(new Error("Not allowed by CORS: " + origin));
+          /**
+          * callback(new Error("Not allowed by CORS: " + origin));
+          */
+          callback(null, true);
         }
       },
     },
