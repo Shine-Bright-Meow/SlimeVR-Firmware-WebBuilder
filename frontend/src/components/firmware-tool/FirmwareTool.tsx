@@ -136,11 +136,15 @@ export function FirmwareTool() {
         </p>
         <p>
           {ghLink("l0ud", "sfusion", "SlimeVR-Tracker-ESP-BMI270")} -
-          [DEPRECATED] - Use SlimeVR/main instead
+          [DEPRECATED] - Use SlimeVR/main instead.
         </p>
         <p>
           {ghLink("furrycoding", "mpu6050_nodmp")} - Adds a new sensor that uses
           MPU6050 without the DMP (sensor fusion in software)
+        </p>
+        <p>
+          {ghLink("furrycoding", "sfusion-tuned-mbe-decimation")} - sFusion tuned MBE
+          with sample rates reduced (decimated)
         </p>
         <p>
           {ghLink("wigwagwent", "BMI_senscal", "LSM6DSV16X")} - Adds BMI160
@@ -153,6 +157,27 @@ export function FirmwareTool() {
         <p>
           {ghLink("kounocom", "sfusion-tuned-mbe")} - Meia's sfusion with MBE
           (Motion bias estimation) and some tuned VQF Parameters
+        </p>
+        <p>
+          {ghLink("kounocom", "sfusion-tuned-mbe-dynamic-cal")} - Meia's 
+          sfusion with MBE (Motion bias estimation) and some tuned VQF Parameters 
+          with Dynamic Calibration
+        </p>
+        <p>
+          {ghLink("kounocom", "gorbits-thing")} - GorbitSlimes Tracker
+          firmware
+        </p>
+        <p>
+          {ghLink("kounocom", "serial-mag-toggle")} - Meia's 
+          branch from main with BNO mag toggle using serial
+        </p>
+        <p>
+          {ghLink("gorbit99", "on-off-button")} - Gorbit's 
+          sFusion with on-off push button for ESP32-C3
+        </p>
+        <p>
+          {ghLink("Shine-Bright-Meow", "v0.4.0-OTA-Enabled")} - Shine's 
+          v0.4.0 Branch with OTA Enabled
         </p>
       </Alert>
       <Alert variant="filled" severity="warning" sx={{ my: 2 }}>

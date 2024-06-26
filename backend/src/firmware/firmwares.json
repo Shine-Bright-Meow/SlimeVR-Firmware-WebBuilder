@@ -25,12 +25,18 @@
     "SlimeVR-Tracker-ESP-BMI270": ["main", "sfusion"]
   },
   "furrycoding": {
-    "SlimeVR-Tracker-ESP": ["mpu6050_nodmp"]
+    "SlimeVR-Tracker-ESP": ["mpu6050_nodmp", "sfusion-tuned-mbe-decimation"]
   },
   "wigwagwent": {
     "LSM6DSV16X": ["BMI_senscal", "lsm6dsv-with-bug-fix"]
   },
   "kounocom": {
-    "SlimeVR-Tracker-ESP": ["sfusion-tuned-mbe"]
+    "SlimeVR-Tracker-ESP": ["sfusion-tuned-mbe", "sfusion-tuned-mbe-dynamic-cal", "gorbits-thing", "serial-mag-toggle"]
+  },
+  "gorbit99": {
+    "SlimeVR-Tracker-ESP": ["on-off-button"]
+  },
+  "Shine-Bright-Meow": {
+    "SlimeVR-Tracker-ESP": ["v0.4.0-OTA-Enabled"]
   }
 }
