@@ -25,7 +25,8 @@ export type FirmwareBoardDTO = {
     | "BOARD_LOLIN_C3_MINI"
     | "BOARD_BEETLE32C3"
     | "BOARD_ES32C3DEVKITM1"
-    | "BOARD_CHEESECAKE";
+    | "BOARD_CHEESECAKE"
+    | "BOARD_TINYSLIME";
   pins?: BoardPins;
   /**
    * @default true
@@ -51,6 +52,7 @@ export type IMUConfigDTO = {
     | "IMU_BMI270"
     | "IMU_MPU6500_NODMP"
     | "IMU_MPU6050_NODMP"
+    | "IMU_LSM6DSO"
     | "IMU_LSM6DSV"
     | "IMU_LSM6DS3TRC"
     | "IMU_ICM42688";
@@ -127,7 +129,8 @@ export type BoardTypeBoard = {
     | "BOARD_LOLIN_C3_MINI"
     | "BOARD_BEETLE32C3"
     | "BOARD_ES32C3DEVKITM1"
-    | "BOARD_CHEESECAKE";
+    | "BOARD_CHEESECAKE"
+    | "BOARD_TINYSLIME";
 };
 
 export type ReleaseDTO = {
@@ -153,6 +156,7 @@ export type Imudto = {
     | "IMU_BMI270"
     | "IMU_MPU6500_NODMP"
     | "IMU_MPU6050_NODMP"
+    | "IMU_LSM6DSO"
     | "IMU_LSM6DSV"
     | "IMU_LSM6DS3TRC"
     | "IMU_ICM42688";

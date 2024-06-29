@@ -86,6 +86,17 @@ const branchRestrictions: any = {
     "gorbit99/on-off-button",
     "ErrorBox-0/main",
   ],
+  IMU_LSM6DSO: [
+    "wigwagwent/lsm6dsv-with-bug-fix",
+    "l0ud/sfusion",
+    "kounocom/sfusion-tuned-mbe",
+    "SlimeVR/main",
+    "kounocom/sfusion-tuned-mbe-dynamic-cal",
+    "kounocom/gorbits-thing",
+    "furrycoding/sfusion-tuned-mbe-decimation",
+    "gorbit99/on-off-button",
+    "ErrorBox-0/main",
+  ],
   IMU_LSM6DSV: [
     "wigwagwent/lsm6dsv-with-bug-fix",
     "l0ud/sfusion",
