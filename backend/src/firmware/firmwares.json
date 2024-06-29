@@ -36,6 +36,9 @@
   "gorbit99": {
     "SlimeVR-Tracker-ESP": ["on-off-button"]
   },
+  "ErrorBox-0": {
+    "slimevr_sfusion_tempcal": ["main"]
+  },
   "Shine-Bright-Meow": {
     "SlimeVR-Tracker-ESP": ["v0.4.0-OTA-Enabled"]
   }

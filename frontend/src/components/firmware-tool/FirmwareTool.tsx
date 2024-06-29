@@ -176,6 +176,10 @@ export function FirmwareTool() {
           sFusion with on-off push button
         </p>
         <p>
+          {ghLink("ErrorBox-0", "main", "slimevr_sfusion_tempcal")} -
+          sFusion with Temp Cal
+        </p>
+        <p>
           {ghLink("Shine-Bright-Meow", "v0.4.0-OTA-Enabled")} - Shine's 
           v0.4.0 Branch with OTA Enabled
         </p>

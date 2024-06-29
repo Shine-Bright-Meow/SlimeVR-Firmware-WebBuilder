@@ -74,6 +74,7 @@ const branchRestrictions: any = {
     "kounocom/gorbits-thing",
     "furrycoding/sfusion-tuned-mbe-decimation",
     "gorbit99/on-off-button",
+    "ErrorBox-0/main",
   ],
   IMU_LSM6DS3TRC: [
     "l0ud/sfusion",
@@ -83,6 +84,7 @@ const branchRestrictions: any = {
     "kounocom/gorbits-thing",
     "furrycoding/sfusion-tuned-mbe-decimation",
     "gorbit99/on-off-button",
+    "ErrorBox-0/main",
   ],
   IMU_LSM6DSV: [
     "wigwagwent/lsm6dsv-with-bug-fix",
@@ -93,6 +95,7 @@ const branchRestrictions: any = {
     "kounocom/gorbits-thing",
     "furrycoding/sfusion-tuned-mbe-decimation",
     "gorbit99/on-off-button",
+    "ErrorBox-0/main",
   ],
   IMU_MPU6500_NODMP: ["furrycoding/mpu6050_nodmp"],
   IMU_MPU6050_NODMP: ["furrycoding/mpu6050_nodmp"],
