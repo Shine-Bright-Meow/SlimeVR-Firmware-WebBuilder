@@ -173,7 +173,7 @@ export function FirmwareTool() {
         </p>
         <p>
           {ghLink("gorbit99", "on-off-button")} - Gorbit's 
-          sFusion with on-off push button for ESP32-C3
+          sFusion with on-off push button
         </p>
         <p>
           {ghLink("Shine-Bright-Meow", "v0.4.0-OTA-Enabled")} - Shine's 
