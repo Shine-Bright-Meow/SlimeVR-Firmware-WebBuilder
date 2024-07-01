@@ -108,6 +108,16 @@ const branchRestrictions: any = {
     "gorbit99/on-off-button",
     "ErrorBox-0/main",
   ],
+  IMU_MPU6050_SF: [
+    "l0ud/sfusion",
+    "kounocom/sfusion-tuned-mbe",
+    "SlimeVR/main",
+    "kounocom/sfusion-tuned-mbe-dynamic-cal",
+    "kounocom/gorbits-thing",
+    "furrycoding/sfusion-tuned-mbe-decimation",
+    "gorbit99/on-off-button",
+    "ErrorBox-0/main",
+  ],
   IMU_MPU6500_NODMP: ["furrycoding/mpu6050_nodmp"],
   IMU_MPU6050_NODMP: ["furrycoding/mpu6050_nodmp"],
 };
