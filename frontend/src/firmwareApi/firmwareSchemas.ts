@@ -26,7 +26,8 @@ export type FirmwareBoardDTO = {
     | "BOARD_BEETLE32C3"
     | "BOARD_ES32C3DEVKITM1"
     | "BOARD_CHEESECAKE"
-    | "BOARD_TINYSLIME";
+    | "BOARD_TINYSLIME"
+    | "BOARD_GORBITSLIMES";
   pins?: BoardPins;
   /**
    * @default true
@@ -132,7 +133,8 @@ export type BoardTypeBoard = {
     | "BOARD_BEETLE32C3"
     | "BOARD_ES32C3DEVKITM1"
     | "BOARD_CHEESECAKE"
-    | "BOARD_TINYSLIME";
+    | "BOARD_TINYSLIME"
+    | "BOARD_GORBITSLIMES";
 };
 
 export type ReleaseDTO = {

@@ -90,6 +90,9 @@ export class BuildFirmwareDTO {
         boardDefaults["LED_PIN"],
       );
     }
+    if (dto.board.OnOffButton === undefined) {
+      dto.board.OnOffButton = boardDefaults["ON_OFF_BUTTON"] ?? 0;
+    }
 
     if (dto.swapAddresses === undefined) {
       dto.swapAddresses = false;

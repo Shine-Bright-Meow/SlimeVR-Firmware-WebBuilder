@@ -15,6 +15,7 @@ export enum BoardType {
   BOARD_ES32C3DEVKITM1 = "BOARD_ES32C3DEVKITM1",
   BOARD_CHEESECAKE = "BOARD_CHEESECAKE",
   BOARD_TINYSLIME = "BOARD_TINYSLIME",
+  BOARD_GORBITSLIMES = "BOARD_GORBITSLIMES",
 }
 
 export class BoardPins {
@@ -44,4 +45,8 @@ export class FirmwareBoardDTO {
   @ApiProperty({ required: false, default: true })
   @IsOptional()
   public enableLed?: boolean;
+
+  @ApiProperty({ required: false, default: false })
+  @IsOptional()
+  public OnOffButton ?: boolean;
 }

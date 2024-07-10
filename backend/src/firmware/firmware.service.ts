@@ -257,6 +257,7 @@ export class FirmwareService implements OnApplicationBootstrap {
           #define LED_PIN ${
             boardConfig.board.enableLed ? boardConfig.board.pins.led : 255
           }
+          #define ON_OFF_BUTTON ${boardConfig.board.OnOffButton || 0}
         `;
   }
 
@@ -469,9 +470,9 @@ export class FirmwareService implements OnApplicationBootstrap {
         dto.board.type = BoardType.BOARD_WEMOSD1MINI;
       }
 
-      // Fake a generic Tiny Slime for defaults,
+      // Fake a generic Tiny Slime/GorbitSlimes for defaults,
       // then use LOLIN C3 MINI for the firmware
-      if (dto.board.type == BoardType.BOARD_TINYSLIME) {
+      if ((dto.board.type == BoardType.BOARD_TINYSLIME) || (dto.board.type == BoardType.BOARD_GORBITSLIMES)) {
         dto.board.type = BoardType.BOARD_LOLIN_C3_MINI;
       }
 
