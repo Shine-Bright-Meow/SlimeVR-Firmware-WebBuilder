@@ -159,11 +159,6 @@ export function FirmwareTool() {
           (Motion bias estimation) and some tuned VQF Parameters
         </p>
         <p>
-          {ghLink("kounocom", "sfusion-tuned-mbe-dynamic-cal")} - Meia's 
-          sfusion with MBE (Motion bias estimation) and some tuned VQF Parameters 
-          with Dynamic Calibration
-        </p>
-        <p>
           {ghLink("kounocom", "gorbits-thing")} - GorbitSlimes Tracker
           firmware
         </p>
