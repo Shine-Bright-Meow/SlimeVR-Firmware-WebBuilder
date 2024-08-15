@@ -27,7 +27,8 @@ export type FirmwareBoardDTO = {
     | "BOARD_ES32C3DEVKITM1"
     | "BOARD_CHEESECAKE"
     | "BOARD_TINYSLIME"
-    | "BOARD_GORBITSLIMES";
+    | "BOARD_GORBITSLIMES"
+    | "BOARD_TOPAZESTROGEN";
   pins?: BoardPins;
   /**
    * @default true
@@ -132,7 +133,8 @@ export type BoardTypeBoard = {
     | "BOARD_ES32C3DEVKITM1"
     | "BOARD_CHEESECAKE"
     | "BOARD_TINYSLIME"
-    | "BOARD_GORBITSLIMES";
+    | "BOARD_GORBITSLIMES"
+    | "BOARD_TOPAZESTROGEN";
 };
 
 export type ReleaseDTO = {

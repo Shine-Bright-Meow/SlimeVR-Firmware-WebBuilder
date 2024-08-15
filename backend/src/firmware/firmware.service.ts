@@ -472,7 +472,7 @@ export class FirmwareService implements OnApplicationBootstrap {
 
       // Fake a generic Tiny Slime/GorbitSlimes for defaults,
       // then use LOLIN C3 MINI for the firmware
-      if ((dto.board.type == BoardType.BOARD_TINYSLIME) || (dto.board.type == BoardType.BOARD_GORBITSLIMES)) {
+      if ((dto.board.type == BoardType.BOARD_TINYSLIME) || (dto.board.type == BoardType.BOARD_GORBITSLIMES) || (dto.board.type == BoardType.BOARD_TOPAZESTROGEN)) {
         dto.board.type = BoardType.BOARD_LOLIN_C3_MINI;
       }
 

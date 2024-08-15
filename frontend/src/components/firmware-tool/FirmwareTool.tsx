@@ -149,6 +149,10 @@ export function FirmwareTool() {
           sFusion with Temp Cal
         </p>
         <p>
+          {ghLink("Earnhbry000", "main")} - Topaz's 
+          Estrogen Tracker Firmware
+        </p>
+        <p>
           {ghLink("Shine-Bright-Meow", "v0.4.0-OTA-Enabled")} - Shine's 
           v0.4.0 Branch with OTA Enabled
         </p>

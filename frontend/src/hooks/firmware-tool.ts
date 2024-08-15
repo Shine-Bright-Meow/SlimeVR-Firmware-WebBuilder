@@ -75,6 +75,7 @@ const branchRestrictions: any = {
     "gorbit99/on-off-button",
     "ErrorBox-0/main",
     "gorbit99/gorbits-thing-hotfix",
+    "Earnhbry000/main"
   ],
   IMU_LSM6DS3TRC: [
     "l0ud/sfusion",
@@ -85,6 +86,7 @@ const branchRestrictions: any = {
     "gorbit99/on-off-button",
     "ErrorBox-0/main",
     "gorbit99/gorbits-thing-hotfix",
+    "Earnhbry000/main"
   ],
   IMU_LSM6DSO: [
     "wigwagwent/lsm6dsv-with-bug-fix",
@@ -96,6 +98,7 @@ const branchRestrictions: any = {
     "gorbit99/on-off-button",
     "ErrorBox-0/main",
     "gorbit99/gorbits-thing-hotfix",
+    "Earnhbry000/main"
   ],
   IMU_LSM6DSV: [
     "wigwagwent/lsm6dsv-with-bug-fix",
@@ -107,6 +110,7 @@ const branchRestrictions: any = {
     "gorbit99/on-off-button",
     "ErrorBox-0/main",
     "gorbit99/gorbits-thing-hotfix",
+    "Earnhbry000/main"
   ],
   IMU_MPU6050_SF: [
     "l0ud/sfusion",
@@ -117,6 +121,7 @@ const branchRestrictions: any = {
     "gorbit99/on-off-button",
     "ErrorBox-0/main",
     "gorbit99/gorbits-thing-hotfix",
+    "Earnhbry000/main"
   ],
 };
 
