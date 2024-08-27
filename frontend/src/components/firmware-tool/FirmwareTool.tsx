@@ -118,6 +118,9 @@ export function FirmwareTool() {
           with sample rates reduced (decimated)
         </p>
         <p>
+          {ghLink("furrycoding", "sfusion_mag")} - sFusion with mag support for limited mags and IMUs.
+        </p>
+        <p>
           {ghLink("wigwagwent", "BMI_senscal", "LSM6DSV16X")} - [DEPRECATED] - Use SlimeVR/main instead (Adds support for LSM6DSV)
         </p>
         <p>
@@ -135,6 +138,10 @@ export function FirmwareTool() {
         <p>
           {ghLink("kounocom", "serial-mag-toggle")} - Meia's 
           branch from main with BNO mag toggle using serial
+        </p>
+        <p>
+          {ghLink("kounocom", "dynamic-sfusion")} - Meia's 
+          sFusion and MBE with dynamic calibration
         </p>
         <p>
           {ghLink("gorbit99", "on-off-button")} - Gorbit's 

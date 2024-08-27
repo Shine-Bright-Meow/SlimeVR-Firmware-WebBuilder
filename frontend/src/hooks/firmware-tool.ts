@@ -75,7 +75,9 @@ const branchRestrictions: any = {
     "gorbit99/on-off-button",
     "ErrorBox-0/main",
     "gorbit99/gorbits-thing-hotfix",
-    "Earnhbry000/main"
+    "Earnhbry000/main",
+    "furrycoding/sfusion_mag",
+    "kounocom/dynamic-sfusion",
   ],
   IMU_LSM6DS3TRC: [
     "l0ud/sfusion",
@@ -86,7 +88,9 @@ const branchRestrictions: any = {
     "gorbit99/on-off-button",
     "ErrorBox-0/main",
     "gorbit99/gorbits-thing-hotfix",
-    "Earnhbry000/main"
+    "Earnhbry000/main",
+    "furrycoding/sfusion_mag",
+    "kounocom/dynamic-sfusion",
   ],
   IMU_LSM6DSO: [
     "wigwagwent/lsm6dsv-with-bug-fix",
@@ -98,7 +102,9 @@ const branchRestrictions: any = {
     "gorbit99/on-off-button",
     "ErrorBox-0/main",
     "gorbit99/gorbits-thing-hotfix",
-    "Earnhbry000/main"
+    "Earnhbry000/main",
+    "furrycoding/sfusion_mag",
+    "kounocom/dynamic-sfusion",
   ],
   IMU_LSM6DSV: [
     "wigwagwent/lsm6dsv-with-bug-fix",
@@ -110,7 +116,9 @@ const branchRestrictions: any = {
     "gorbit99/on-off-button",
     "ErrorBox-0/main",
     "gorbit99/gorbits-thing-hotfix",
-    "Earnhbry000/main"
+    "Earnhbry000/main",
+    "furrycoding/sfusion_mag",
+    "kounocom/dynamic-sfusion",
   ],
   IMU_MPU6050_SF: [
     "l0ud/sfusion",
@@ -121,7 +129,9 @@ const branchRestrictions: any = {
     "gorbit99/on-off-button",
     "ErrorBox-0/main",
     "gorbit99/gorbits-thing-hotfix",
-    "Earnhbry000/main"
+    "Earnhbry000/main",
+    "furrycoding/sfusion_mag",
+    "kounocom/dynamic-sfusion",
   ],
 };
 
