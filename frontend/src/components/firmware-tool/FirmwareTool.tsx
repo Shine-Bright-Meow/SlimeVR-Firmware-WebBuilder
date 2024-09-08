@@ -160,6 +160,10 @@ export function FirmwareTool() {
           Estrogen Tracker Firmware
         </p>
         <p>
+          {ghLink("Earnhbry000", "MBE-Thing")} - Topaz's 
+          Second Dose of Estrogen with a sprinkle of MBE Tracker Firmware
+        </p>
+        <p>
           {ghLink("Shine-Bright-Meow", "v0.4.0-OTA-Enabled")} - Shine's 
           v0.4.0 Branch with OTA Enabled
         </p>

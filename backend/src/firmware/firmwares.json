@@ -30,7 +30,7 @@
     "slimevr_sfusion_tempcal": ["main"]
   },
   "Earnhbry000": {
-    "SlimeVR-Tracker-ESP": ["main"]
+    "SlimeVR-Tracker-ESP": ["main", "MBE-Thing"]
   },
   "Shine-Bright-Meow": {
     "SlimeVR-Tracker-ESP": ["v0.4.0-OTA-Enabled"]
