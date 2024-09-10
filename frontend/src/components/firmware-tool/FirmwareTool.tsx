@@ -149,7 +149,11 @@ export function FirmwareTool() {
         </p>
         <p>
           {ghLink("gorbit99", "gorbits-thing-hotfix")} - Gorbit's 
-          GorbitSlimes Tracker firmware (hotfixed)
+          GorbitSlimes Tracker Firmware (Hotfixed)
+        </p>
+        <p>
+          {ghLink("gorbit99", "gorbits-thing-lsm")} - Gorbit's 
+          GorbitSlimes LSM Tracker Firmware
         </p>
         <p>
           {ghLink("ErrorBox-0", "main", "slimevr_sfusion_tempcal")} -
