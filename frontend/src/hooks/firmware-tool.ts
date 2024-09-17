@@ -80,6 +80,7 @@ const branchRestrictions: any = {
     "Earnhbry000/MBE-Thing",
     "furrycoding/sfusion_mag",
     "kounocom/dynamic-sfusion",
+    "kounocom/random-dev-branch-do-not-use",
   ],
   IMU_LSM6DS3TRC: [
     "l0ud/sfusion",
@@ -95,6 +96,7 @@ const branchRestrictions: any = {
     "Earnhbry000/MBE-Thing",
     "furrycoding/sfusion_mag",
     "kounocom/dynamic-sfusion",
+    "kounocom/random-dev-branch-do-not-use",
   ],
   IMU_LSM6DSO: [
     "wigwagwent/lsm6dsv-with-bug-fix",
@@ -111,6 +113,7 @@ const branchRestrictions: any = {
     "Earnhbry000/MBE-Thing",
     "furrycoding/sfusion_mag",
     "kounocom/dynamic-sfusion",
+    "kounocom/random-dev-branch-do-not-use",
   ],
   IMU_LSM6DSV: [
     "wigwagwent/lsm6dsv-with-bug-fix",
@@ -127,6 +130,7 @@ const branchRestrictions: any = {
     "Earnhbry000/MBE-Thing",
     "furrycoding/sfusion_mag",
     "kounocom/dynamic-sfusion",
+    "kounocom/random-dev-branch-do-not-use",
   ],
   IMU_MPU6050_SF: [
     "l0ud/sfusion",
@@ -142,6 +146,7 @@ const branchRestrictions: any = {
     "Earnhbry000/MBE-Thing",
     "furrycoding/sfusion_mag",
     "kounocom/dynamic-sfusion",
+    "kounocom/random-dev-branch-do-not-use",
   ],
 };
 
