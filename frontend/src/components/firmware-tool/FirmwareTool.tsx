@@ -148,14 +148,6 @@ export function FirmwareTool() {
           sFusion with on-off push button
         </p>
         <p>
-          {ghLink("gorbit99", "gorbits-thing-hotfix")} - Gorbit's 
-          GorbitSlimes Tracker Firmware (Hotfixed)
-        </p>
-        <p>
-          {ghLink("gorbit99", "gorbits-thing-lsm")} - Gorbit's 
-          GorbitSlimes LSM Tracker Firmware
-        </p>
-        <p>
           {ghLink("ErrorBox-0", "main", "slimevr_sfusion_tempcal")} -
           sFusion with Temp Cal
         </p>
