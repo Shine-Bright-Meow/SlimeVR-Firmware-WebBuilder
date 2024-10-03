@@ -138,6 +138,10 @@ const branchRestrictions: any = {
     "kounocom/dynamic-sfusion",
     "kounocom/random-dev-branch-do-not-use",
   ],
+  IMU_ICM45686: [
+    "gorbit99/icm45686-firmware",
+    "kounocom/dynamic-sfusion",
+  ],
 };
 
 type DownloadedFile = { infos: FirmwareFile; binary: ArrayBuffer };

@@ -148,6 +148,10 @@ export function FirmwareTool() {
           sFusion with on-off push button
         </p>
         <p>
+          {ghLink("gorbit99", "icm45686-firmware")} - ICM-45686 sFusion
+          firmware
+        </p>
+        <p>
           {ghLink("ErrorBox-0", "main", "slimevr_sfusion_tempcal")} -
           sFusion with Temp Cal
         </p>

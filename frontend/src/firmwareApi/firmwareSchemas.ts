@@ -57,7 +57,8 @@ export type IMUConfigDTO = {
     | "IMU_ICM42688"
     | "IMU_LSM6DSO"
     | "IMU_LSM6DSR"
-    | "IMU_MPU6050_SF";
+    | "IMU_MPU6050_SF"
+    | "IMU_ICM45686";
   rotation: number;
   imuINT?: string;
 };
@@ -163,6 +164,7 @@ export type Imudto = {
     | "IMU_ICM42688"
     | "IMU_LSM6DSO"
     | "IMU_LSM6DSR"
-    | "IMU_MPU6050_SF";
+    | "IMU_MPU6050_SF"
+    | "IMU_ICM45686";
   hasIntPin: boolean;
 };
