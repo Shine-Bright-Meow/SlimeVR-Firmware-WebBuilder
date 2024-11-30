@@ -79,6 +79,8 @@ const branchRestrictions: any = {
     "furrycoding/sfusion_mag",
     "kounocom/dynamic-sfusion",
     "kounocom/random-dev-branch-do-not-use",
+    "SlimeVR/v0.5.0",
+    "SlimeVR/v0.5.1",
   ],
   IMU_LSM6DS3TRC: [
     "l0ud/sfusion",
@@ -93,6 +95,8 @@ const branchRestrictions: any = {
     "furrycoding/sfusion_mag",
     "kounocom/dynamic-sfusion",
     "kounocom/random-dev-branch-do-not-use",
+    "SlimeVR/v0.5.0",
+    "SlimeVR/v0.5.1",
   ],
   IMU_LSM6DSO: [
     "wigwagwent/lsm6dsv-with-bug-fix",
@@ -108,6 +112,8 @@ const branchRestrictions: any = {
     "furrycoding/sfusion_mag",
     "kounocom/dynamic-sfusion",
     "kounocom/random-dev-branch-do-not-use",
+    "SlimeVR/v0.5.0",
+    "SlimeVR/v0.5.1",
   ],
   IMU_LSM6DSV: [
     "wigwagwent/lsm6dsv-with-bug-fix",
@@ -123,6 +129,8 @@ const branchRestrictions: any = {
     "furrycoding/sfusion_mag",
     "kounocom/dynamic-sfusion",
     "kounocom/random-dev-branch-do-not-use",
+    "SlimeVR/v0.5.0",
+    "SlimeVR/v0.5.1",
   ],
   IMU_MPU6050_SF: [
     "l0ud/sfusion",
@@ -137,6 +145,8 @@ const branchRestrictions: any = {
     "furrycoding/sfusion_mag",
     "kounocom/dynamic-sfusion",
     "kounocom/random-dev-branch-do-not-use",
+    "SlimeVR/v0.5.0",
+    "SlimeVR/v0.5.1",
   ],
   IMU_ICM45686: [
     "gorbit99/icm45686-firmware",
