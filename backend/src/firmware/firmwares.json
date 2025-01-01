@@ -21,7 +21,7 @@
     "LSM6DSV16X": ["BMI_senscal", "lsm6dsv-with-bug-fix"]
   },
   "kounocom": {
-    "SlimeVR-Tracker-ESP": ["sfusion-tuned-mbe", "gorbits-thing", "serial-mag-toggle", "dynamic-sfusion", "random-dev-branch-do-not-use"]
+    "SlimeVR-Tracker-ESP": ["sfusion-tuned-mbe", "gorbits-thing", "serial-mag-toggle", "dynamic-sfusion", "random-dev-branch-do-not-use", "dynamic-sfusion-icm45-hotfix"]
   },
   "gorbit99": {
     "SlimeVR-Tracker-ESP": ["on-off-button", "icm45686-firmware"]

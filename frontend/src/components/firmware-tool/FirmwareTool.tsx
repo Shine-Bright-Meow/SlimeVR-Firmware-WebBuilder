@@ -144,6 +144,10 @@ export function FirmwareTool() {
           sFusion and MBE with dynamic calibration
         </p>
         <p>
+          {ghLink("kounocom", "dynamic-sfusion-icm45-hotfix")} - Meia's 
+          Hotfix for sFusion and MBE with dynamic calibration
+        </p>
+        <p>
           {ghLink("gorbit99", "on-off-button")} - Gorbit's 
           sFusion with on-off push button
         </p>
