@@ -163,6 +163,7 @@ const branchRestrictions: any = {
     "gorbit99/icm45686-firmware",
     "kounocom/dynamic-sfusion",
     "kounocom/dynamic-sfusion-icm45-hotfix",
+    "kounocom/gorbits-thing",
     "SlimeVR/main",
     "SlimeVR/v0.5.2",
   ],
