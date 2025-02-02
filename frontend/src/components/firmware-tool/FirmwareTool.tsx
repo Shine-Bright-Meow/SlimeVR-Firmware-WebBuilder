@@ -148,6 +148,9 @@ export function FirmwareTool() {
           Hotfix for sFusion and MBE with dynamic calibration
         </p>
         <p>
+          {ghLink("kounocom", "feat/lerp-bias")} - Dynamic-sFusion with linear gyro bias interpolation
+        </p>
+        <p>
           {ghLink("gorbit99", "on-off-button")} - Gorbit's 
           sFusion with on-off push button
         </p>
