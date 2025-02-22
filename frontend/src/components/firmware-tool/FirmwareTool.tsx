@@ -159,6 +159,9 @@ export function FirmwareTool() {
           firmware
         </p>
         <p>
+          {ghLink("gorbit99", "gorbits-thing-beta")} - Gorbit's beta test branch
+        </p>
+        <p>
           {ghLink("ErrorBox-0", "main", "slimevr_sfusion_tempcal")} -
           sFusion with Temp Cal
         </p>
