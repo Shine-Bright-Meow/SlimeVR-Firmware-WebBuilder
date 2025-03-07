@@ -186,7 +186,7 @@ export function FirmwareTool() {
           {ghLink("Shade-emry", "main", "bno_mag_fix")} -  Experimental drift and mag fix for bno085 (Orignial Shade/KeiN) 
         </p>
         <p>
-          {ghLink("Shade-emry", "main", "Unis-fixes")} -  Experimental drift and mag fix for bno085 (Orignial Shade/KeiN) with Unlogisch's fixes.
+          {ghLink("Shade-emry", "Unis-fixes", "bno_mag_fix")} -  Experimental drift and mag fix for bno085 (Orignial Shade/KeiN) with Unlogisch's fixes.
         </p>
         </p>
       </Alert>
