@@ -86,6 +86,12 @@ export function FirmwareTool() {
           toggle support
         </p>
         <p>
+          {ghLink("SlimeVR", "shade-bno-mag")} -  SlimeVR's Fork of Shade_Emry's Repository for BNO085 Nag Fix.
+        </p>
+        <p>
+          {ghLink("SlimeVR", "bno085-mag-fix")} -  SlimeVR's Fork of Shade_Emry's Repository for BNO085 Nag Fix. (Eiren's Edit)
+        </p>
+        <p>
           {ghLink("ButterscotchV", "v0.3.3-bno-patched")} - Release
           SlimeVR/v0.3.3 with BNO patched
         </p>
@@ -176,6 +182,12 @@ export function FirmwareTool() {
         <p>
           {ghLink("Shine-Bright-Meow", "v0.4.0-OTA-Enabled")} - Shine's 
           v0.4.0 Branch with OTA Enabled
+        <p>
+          {ghLink("Shade-emry", "main", "bno_mag_fix")} -  Experimental drift and mag fix for bno085 (Orignial Shade/KeiN) 
+        </p>
+        <p>
+          {ghLink("Shade-emry", "main", "Unis-fixes")} -  Experimental drift and mag fix for bno085 (Orignial Shade/KeiN) with Unlogisch's fixes.
+        </p>
         </p>
       </Alert>
       <Alert variant="filled" severity="warning" sx={{ my: 2 }}>

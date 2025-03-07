@@ -1,6 +1,6 @@
 {
   "SlimeVR": {
-    "SlimeVR-Tracker-ESP": ["main", "feat/magnetometer-toggle"]
+    "SlimeVR-Tracker-ESP": ["main", "feat/magnetometer-toggle", "shade-bno-mag", "bno085-mag-fix"]
   },
   "ButterscotchV": {
     "SlimeVR-Tracker-ESP": [
@@ -34,5 +34,8 @@
   },
   "Shine-Bright-Meow": {
     "SlimeVR-Tracker-ESP": ["v0.4.0-OTA-Enabled"]
+  },
+  "Shade-emry": {
+    "bno_mag_fix": ["main", "Unis-fixes"]
   }
 }
