@@ -168,6 +168,9 @@ export function FirmwareTool() {
           {ghLink("gorbit99", "gorbits-thing-beta")} - Gorbit's beta test branch
         </p>
         <p>
+          {ghLink("gorbit99", "sfusion-mag-support")} - Magnetometer support for sFusion. LSM6DSR + IST8306 working. (ICM-45686 + IST8306 WIP)
+        </p>
+        <p>
           {ghLink("ErrorBox-0", "main", "slimevr_sfusion_tempcal")} -
           sFusion with Temp Cal
         </p>
@@ -187,6 +190,9 @@ export function FirmwareTool() {
         </p>
         <p>
           {ghLink("Shade-emry", "Unis-fixes", "bno_mag_fix")} -  Experimental drift and mag fix for bno085 (Orignial Shade/KeiN) with Unlogisch's fixes.
+        </p>
+        <p>
+          {ghLink("Shade-emry", "main_rotationfix", "bno_mag_fix")} -  Experimental drift and mag fix for bno085 (Orignial Shade/KeiN) with rotation fix.
         </p>
         </p>
       </Alert>

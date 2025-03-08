@@ -24,7 +24,7 @@
     "SlimeVR-Tracker-ESP": ["sfusion-tuned-mbe", "gorbits-thing", "serial-mag-toggle", "dynamic-sfusion", "random-dev-branch-do-not-use", "dynamic-sfusion-icm45-hotfix", "feat/lerp-bias"]
   },
   "gorbit99": {
-    "SlimeVR-Tracker-ESP": ["on-off-button", "icm45686-firmware", "gorbits-thing-beta"]
+    "SlimeVR-Tracker-ESP": ["on-off-button", "icm45686-firmware", "gorbits-thing-beta", "sfusion-mag-support"]
   },
   "ErrorBox-0": {
     "slimevr_sfusion_tempcal": ["main"]
@@ -36,6 +36,6 @@
     "SlimeVR-Tracker-ESP": ["v0.4.0-OTA-Enabled"]
   },
   "Shade-emry": {
-    "bno_mag_fix": ["main", "Unis-fixes"]
+    "bno_mag_fix": ["main", "Unis-fixes", "main_rotationfix"]
   }
 }
