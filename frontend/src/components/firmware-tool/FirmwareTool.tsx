@@ -195,6 +195,9 @@ export function FirmwareTool() {
           {ghLink("Shade-emry", "main_rotationfix", "bno_mag_fix")} -  Experimental drift and mag fix for bno085 (Orignial Shade/KeiN) with rotation fix.
         </p>
         </p>
+        <p>
+          {ghLink("Shade-emry", "Unis-fixes_v2", "bno_mag_fix")} -  Experimental drift and mag fix for bno085 (Orignial Shade/KeiN) with Unlogisch's fixes. (Version 2)
+        </p>
       </Alert>
       <Alert variant="filled" severity="warning" sx={{ my: 2 }}>
         IMPORTANT: {ghLink("SlimeVR", "v0.3.3")} is now being redirected to{" "}
