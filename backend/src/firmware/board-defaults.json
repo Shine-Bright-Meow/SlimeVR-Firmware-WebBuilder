@@ -143,15 +143,15 @@
   "BOARD_TOPAZESTROGEN": {
     "DEFAULT_IMU": "IMU_LSM6DSV",
     "DEFAULT_IMU_ROTATION": 90,
-    "PIN_IMU_SDA": "0",
-    "PIN_IMU_SCL": "1",
+    "PIN_IMU_SDA": "6",
+    "PIN_IMU_SCL": "4",
     "PIN_IMU_INT": "255",
     "PIN_IMU_INT_2": "255",
-    "PIN_BATTERY_LEVEL": "4",
-    "LED_PIN": "6",
+    "PIN_BATTERY_LEVEL": "3",
+    "LED_PIN": "0",
     "LED_INVERTED": true,
     "BATTERY_SHIELD_RESISTANCE": 0.0,
-    "BATTERY_SHIELD_R1": 100.0,
-    "BATTERY_SHIELD_R2": 180.0
+    "BATTERY_SHIELD_R1": 150.0,
+    "BATTERY_SHIELD_R2": 150.0
   }
 }

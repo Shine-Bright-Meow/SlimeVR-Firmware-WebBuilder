@@ -87,6 +87,10 @@ const branchRestrictions: any = {
     "SlimeVR/v0.5.0",
     "SlimeVR/v0.5.2",
     "SlimeVR/v0.5.4",
+    "Shade-emry/main",
+    "Shade-emry/Unis-fixes",
+    "Shade-emry/main_rotationfix",
+    "Shade-emry/Unis-fixes_v2",
   ],
   IMU_LSM6DS3TRC: [
     "l0ud/sfusion",
@@ -109,6 +113,10 @@ const branchRestrictions: any = {
     "SlimeVR/v0.5.0",
     "SlimeVR/v0.5.2",
     "SlimeVR/v0.5.4",
+    "Shade-emry/main",
+    "Shade-emry/Unis-fixes",
+    "Shade-emry/main_rotationfix",
+    "Shade-emry/Unis-fixes_v2",
   ],
   IMU_LSM6DSO: [
     "wigwagwent/lsm6dsv-with-bug-fix",
@@ -132,6 +140,10 @@ const branchRestrictions: any = {
     "SlimeVR/v0.5.0",
     "SlimeVR/v0.5.2",
     "SlimeVR/v0.5.4",
+    "Shade-emry/main",
+    "Shade-emry/Unis-fixes",
+    "Shade-emry/main_rotationfix",
+    "Shade-emry/Unis-fixes_v2",
   ],
   IMU_LSM6DSV: [
     "wigwagwent/lsm6dsv-with-bug-fix",
@@ -155,6 +167,10 @@ const branchRestrictions: any = {
     "SlimeVR/v0.5.0",
     "SlimeVR/v0.5.2",
     "SlimeVR/v0.5.4",
+    "Shade-emry/main",
+    "Shade-emry/Unis-fixes",
+    "Shade-emry/main_rotationfix",
+    "Shade-emry/Unis-fixes_v2",
   ],
   IMU_MPU6050_SF: [
     "l0ud/sfusion",
@@ -177,6 +193,10 @@ const branchRestrictions: any = {
     "SlimeVR/v0.5.0",
     "SlimeVR/v0.5.2",
     "SlimeVR/v0.5.4",
+    "Shade-emry/main",
+    "Shade-emry/Unis-fixes",
+    "Shade-emry/main_rotationfix",
+    "Shade-emry/Unis-fixes_v2",
   ],
   IMU_ICM45686: [
     "kounocom/sfusion-tuned-mbe",
@@ -190,6 +210,10 @@ const branchRestrictions: any = {
     "SlimeVR/main",
     "SlimeVR/v0.5.2",
     "SlimeVR/v0.5.4",
+    "Shade-emry/main",
+    "Shade-emry/Unis-fixes",
+    "Shade-emry/main_rotationfix",
+    "Shade-emry/Unis-fixes_v2",
   ],
 };
 
