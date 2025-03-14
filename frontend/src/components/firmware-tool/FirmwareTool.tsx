@@ -157,6 +157,9 @@ export function FirmwareTool() {
           {ghLink("kounocom", "feat/lerp-bias")} - Dynamic-sFusion with linear gyro bias interpolation
         </p>
         <p>
+          {ghLink("kounocom", "sfusion-machine-optimized")} - Dynamic-sFusion with machine optimized VQF values
+        </p>
+        <p>
           {ghLink("gorbit99", "on-off-button")} - Gorbit's 
           sFusion with on-off push button
         </p>
