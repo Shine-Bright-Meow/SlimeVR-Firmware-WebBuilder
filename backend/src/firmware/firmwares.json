@@ -33,7 +33,7 @@
     "SlimeVR-Tracker-ESP": ["main", "MBE-Thing"]
   },
   "Shine-Bright-Meow": {
-    "SlimeVR-Tracker-ESP": ["v0.4.0-OTA-Enabled"]
+    "SlimeVR-Tracker-ESP": ["v0.4.0-OTA-Enabled", "sfusion-tuned-mbe-decimation"]
   },
   "Shade-emry": {
     "bno_mag_fix": ["main", "Unis-fixes", "main_rotationfix", "Unis-fixes_v2", "Added-fusion-disection/injection-sh2"]

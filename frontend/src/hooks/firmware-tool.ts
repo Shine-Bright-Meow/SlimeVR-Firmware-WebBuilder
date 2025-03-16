@@ -93,6 +93,7 @@ const branchRestrictions: any = {
     "Shade-emry/main_rotationfix",
     "Shade-emry/Unis-fixes_v2",
     "Shade-emry/Added-fusion-disection/injection-sh2",
+    "Shine-Bright-Meow/sfusion-tuned-mbe-decimation",
   ],
   IMU_LSM6DS3TRC: [
     "l0ud/sfusion",
@@ -121,6 +122,7 @@ const branchRestrictions: any = {
     "Shade-emry/main_rotationfix",
     "Shade-emry/Unis-fixes_v2",
     "Shade-emry/Added-fusion-disection/injection-sh2",
+    "Shine-Bright-Meow/sfusion-tuned-mbe-decimation",
   ],
   IMU_LSM6DSO: [
     "wigwagwent/lsm6dsv-with-bug-fix",
@@ -150,6 +152,7 @@ const branchRestrictions: any = {
     "Shade-emry/main_rotationfix",
     "Shade-emry/Unis-fixes_v2",
     "Shade-emry/Added-fusion-disection/injection-sh2",
+    "Shine-Bright-Meow/sfusion-tuned-mbe-decimation",
   ],
   IMU_LSM6DSV: [
     "wigwagwent/lsm6dsv-with-bug-fix",
@@ -179,6 +182,7 @@ const branchRestrictions: any = {
     "Shade-emry/main_rotationfix",
     "Shade-emry/Unis-fixes_v2",
     "Shade-emry/Added-fusion-disection/injection-sh2",
+    "Shine-Bright-Meow/sfusion-tuned-mbe-decimation",
   ],
   IMU_MPU6050_SF: [
     "l0ud/sfusion",
@@ -207,6 +211,7 @@ const branchRestrictions: any = {
     "Shade-emry/main_rotationfix",
     "Shade-emry/Unis-fixes_v2",
     "Shade-emry/Added-fusion-disection/injection-sh2",
+    "Shine-Bright-Meow/sfusion-tuned-mbe-decimation",
   ],
   IMU_ICM45686: [
     "kounocom/sfusion-tuned-mbe",
@@ -226,6 +231,7 @@ const branchRestrictions: any = {
     "Shade-emry/main_rotationfix",
     "Shade-emry/Unis-fixes_v2",
     "Shade-emry/Added-fusion-disection/injection-sh2",
+    "Shine-Bright-Meow/sfusion-tuned-mbe-decimation",
   ],
 };
 

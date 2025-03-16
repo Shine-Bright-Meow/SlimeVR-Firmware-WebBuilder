@@ -121,7 +121,7 @@ export function FirmwareTool() {
         </p>
         <p>
           {ghLink("furrycoding", "sfusion-tuned-mbe-decimation")} - sFusion tuned MBE
-          with sample rates reduced (decimated)
+          with sample rates reduced (decimated). Use Shine-Bright-Meow/sfusion-tuned-mbe-decimation if you really need this.
         </p>
         <p>
           {ghLink("furrycoding", "sfusion_mag")} - sFusion with mag support for limited mags and IMUs.
