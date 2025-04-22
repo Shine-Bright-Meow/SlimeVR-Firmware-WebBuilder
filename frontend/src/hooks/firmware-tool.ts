@@ -72,7 +72,7 @@ export function fillMissingValues(target: any, defaults: any) {
 }
 
 const lf = new Intl.ListFormat("en");
-const newBranches = ["kounocom/dynamic-sfusion"];
+const newBranches = ["kounocom/dynamic-sfusion", "SlimeVR/main"];
 const branchRestrictions: any = {
   IMU_LSM6DS3: newBranches,
   IMU_ICM45686: newBranches,
@@ -83,7 +83,6 @@ const oldBranches = [
   "SlimeVR/v0.3.3",
   "SlimeVR/v0.3.2",
   "ButterscotchV/v0.3.3-bno-patched",
-  "ButterscotchV/alt-port-stable",
   "wigwagwent/BMI_senscal",
 ];
 const unsupportedBranches: any = {
