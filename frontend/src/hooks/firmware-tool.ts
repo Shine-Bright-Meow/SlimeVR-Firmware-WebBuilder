@@ -80,7 +80,6 @@ const branchRestrictions: any = {
 };
 const oldBranches = [
   "SlimeVR/v0.4.0",
-  "SlimeVR/v0.4.0",
   "SlimeVR/v0.3.3",
   "SlimeVR/v0.3.2",
   "ButterscotchV/v0.3.3-bno-patched",
