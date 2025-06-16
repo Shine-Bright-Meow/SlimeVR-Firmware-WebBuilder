@@ -73,11 +73,6 @@ export function FirmwareTool() {
           </p>
         </Alert>
       )}
-      <Alert variant="filled" severity="warning" sx={{ my: 2 }}>
-        This is an experimental version of the SlimeVR Firmware Tool run by
-        Butterscotch, so uptime, functionality, and performance is not
-        guaranteed.
-      </Alert>
       <Alert variant="outlined" severity="info" sx={{ my: 2 }}>
         SlimeVR/vX.X.X - SlimeVR stable release(s)
         <p>{ghLink("SlimeVR", "main")} - SlimeVR development branch</p>
@@ -172,12 +167,6 @@ export function FirmwareTool() {
           {ghLink("Shine-Bright-Meow", "v0.6.0-OTA-Enabled")} - Shine's 
           v0.6.0 Branch with OTA Enabled
         </p>
-      </Alert>
-      <Alert variant="filled" severity="warning" sx={{ my: 2 }}>
-        IMPORTANT: {ghLink("SlimeVR", "v0.3.3")} is now being redirected to{" "}
-        {ghLink("ButterscotchV", "v0.3.3-bno-patched")}. Using BNOs with v0.3.3
-        is still not recommended, but it should work with the patch. The
-        original release can still be found on the SlimeVR repository.
       </Alert>
       <Paper
         variant="outlined"
