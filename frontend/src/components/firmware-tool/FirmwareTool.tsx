@@ -168,6 +168,10 @@ export function FirmwareTool() {
           {ghLink("Shine-Bright-Meow", "v0.4.0-OTA-Enabled")} - Shine's 
           v0.4.0 Branch with OTA Enabled
         </p>
+        <p>
+          {ghLink("Shine-Bright-Meow", "v0.6.0-OTA-Enabled")} - Shine's 
+          v0.6.0 Branch with OTA Enabled
+        </p>
       </Alert>
       <Alert variant="filled" severity="warning" sx={{ my: 2 }}>
         IMPORTANT: {ghLink("SlimeVR", "v0.3.3")} is now being redirected to{" "}
