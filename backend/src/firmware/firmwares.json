@@ -1,6 +1,6 @@
 {
   "SlimeVR": {
-    "SlimeVR-Tracker-ESP": ["main", "feat/magnetometer-toggle", "shade-bno-mag", "bno085-mag-fix"]
+    "SlimeVR-Tracker-ESP": ["main", "feat/magnetometer-toggle", "v0.4.0", "v0.5.0", "v0.5.2", "v0.5.4", "v0.6.0"]
   },
   "ButterscotchV": {
     "SlimeVR-Tracker-ESP": [
@@ -21,7 +21,7 @@
     "LSM6DSV16X": ["BMI_senscal", "lsm6dsv-with-bug-fix"]
   },
   "kounocom": {
-    "SlimeVR-Tracker-ESP": ["sfusion-tuned-mbe", "gorbits-thing", "serial-mag-toggle", "dynamic-sfusion", "random-dev-branch-do-not-use", "dynamic-sfusion-icm45-hotfix", "feat/lerp-bias", "sfusion-machine-optimized"]
+    "SlimeVR-Tracker-ESP": ["sfusion-tuned-mbe", "gorbits-thing", "sfusion-machine-optimized"]
   },
   "gorbit99": {
     "SlimeVR-Tracker-ESP": ["on-off-button", "icm45686-firmware", "gorbits-thing-beta", "sfusion-mag-support"]
@@ -32,10 +32,10 @@
   "Earnhbry000": {
     "SlimeVR-Tracker-ESP": ["main", "MBE-Thing"]
   },
-  "Shine-Bright-Meow": {
-    "SlimeVR-Tracker-ESP": ["v0.4.0-OTA-Enabled", "sfusion-tuned-mbe-decimation"]
+  "VentiFBT1": {
+    "SlimeVR-Tracker-ESP": ["venti-led-test"]
   },
-  "Shade-emry": {
-    "bno_mag_fix": ["main", "Unis-fixes", "main_rotationfix", "Unis-fixes_v2", "Added-fusion-disection/injection-sh2"]
+  "Shine-Bright-Meow": {
+    "SlimeVR-Tracker-ESP": ["v0.4.0-OTA-Enabled", "v0.6.0-OTA-Enabled", "sfusion-tuned-mbe-decimation"]
   }
 }

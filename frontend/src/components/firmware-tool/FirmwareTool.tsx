@@ -86,12 +86,6 @@ export function FirmwareTool() {
           toggle support
         </p>
         <p>
-          {ghLink("SlimeVR", "shade-bno-mag")} -  SlimeVR's Fork of Shade_Emry's Repository for BNO085 Nag Fix.
-        </p>
-        <p>
-          {ghLink("SlimeVR", "bno085-mag-fix")} -  SlimeVR's Fork of Shade_Emry's Repository for BNO085 Nag Fix. (Eiren's Edit)
-        </p>
-        <p>
           {ghLink("ButterscotchV", "v0.3.3-bno-patched")} - Release
           SlimeVR/v0.3.3 with BNO patched
         </p>
@@ -142,21 +136,6 @@ export function FirmwareTool() {
           firmware
         </p>
         <p>
-          {ghLink("kounocom", "serial-mag-toggle")} - Meia's 
-          branch from main with BNO mag toggle using serial
-        </p>
-        <p>
-          {ghLink("kounocom", "dynamic-sfusion")} - Meia's 
-          sFusion and MBE with dynamic calibration
-        </p>
-        <p>
-          {ghLink("kounocom", "dynamic-sfusion-icm45-hotfix")} - Meia's 
-          Hotfix for sFusion and MBE with dynamic calibration
-        </p>
-        <p>
-          {ghLink("kounocom", "feat/lerp-bias")} - Dynamic-sFusion with linear gyro bias interpolation
-        </p>
-        <p>
           {ghLink("kounocom", "sfusion-machine-optimized")} - Dynamic-sFusion with machine optimized VQF values
         </p>
         <p>
@@ -188,21 +167,6 @@ export function FirmwareTool() {
         <p>
           {ghLink("Shine-Bright-Meow", "v0.4.0-OTA-Enabled")} - Shine's 
           v0.4.0 Branch with OTA Enabled
-        <p>
-          {ghLink("Shade-emry", "main", "bno_mag_fix")} -  Experimental drift and mag fix for bno085 (Orignial Shade/KeiN) 
-        </p>
-        <p>
-          {ghLink("Shade-emry", "Unis-fixes", "bno_mag_fix")} -  Experimental drift and mag fix for bno085 (Orignial Shade/KeiN) with Unlogisch's fixes.
-        </p>
-        <p>
-          {ghLink("Shade-emry", "main_rotationfix", "bno_mag_fix")} -  Experimental drift and mag fix for bno085 (Orignial Shade/KeiN) with rotation fix.
-        </p>
-        </p>
-        <p>
-          {ghLink("Shade-emry", "Unis-fixes_v2", "bno_mag_fix")} -  Experimental drift and mag fix for bno085 (Orignial Shade/KeiN) with Unlogisch's fixes. (Version 2)
-        </p>
-        <p>
-          {ghLink("Shade-emry", "Added-fusion-disection/injection-sh2", "bno_mag_fix")} -  Experimental fusion for BNO
         </p>
       </Alert>
       <Alert variant="filled" severity="warning" sx={{ my: 2 }}>
