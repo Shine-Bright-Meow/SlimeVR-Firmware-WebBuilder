@@ -127,6 +127,9 @@ export function FirmwareTool() {
           (Motion bias estimation) and some tuned VQF Parameters
         </p>
         <p>
+          {ghLink("kounocom", "sfusion-bmi160")} - sFusion support for BMI160 (with dynamic calibration)
+        </p>
+        <p>
           {ghLink("kounocom", "gorbits-thing")} - GorbitSlimes Tracker
           firmware
         </p>
@@ -162,6 +165,10 @@ export function FirmwareTool() {
         <p>
           {ghLink("Shine-Bright-Meow", "v0.4.0-OTA-Enabled")} - Shine's 
           v0.4.0 Branch with OTA Enabled
+        </p>
+        <p>
+          {ghLink("Shine-Bright-Meow", "v0.5.4-OTA-Enabled")} - Shine's 
+          v0.5.4 Branch with OTA Enabled
         </p>
         <p>
           {ghLink("Shine-Bright-Meow", "v0.6.0-OTA-Enabled")} - Shine's 
