@@ -80,6 +80,7 @@ export class GithubService {
                 "SlimeVR/v0.2.3",
                 "SlimeVR/v0.3.0",
                 "SlimeVR/v0.3.1",
+                "SlimeVR/v0.6.0",
               ].includes(`${owner}/${name}`),
           ),
         ];
