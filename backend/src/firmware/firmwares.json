@@ -38,17 +38,5 @@
         "description": "Adds BMI160 sensitivity calibration to the regular calibration routine"
       }
     ]
-  },
-  "kounocom": {
-    "SlimeVR-Tracker-ESP": [
-      {
-        "branch": "sfusion-tuned-mbe",
-        "description": "Meia's sfusion with MBE (Motion Bias Estimation) and some tuned VQF Parameters"
-      },
-      {
-        "branch": "dynamic-sfusion",
-        "description": "Meia's sfusion with MBE and dynamic calibration"
-      }
-    ]
   }
 }
