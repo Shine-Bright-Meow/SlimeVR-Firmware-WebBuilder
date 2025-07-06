@@ -101,26 +101,7 @@ export function FirmwareTool() {
           with "trackerPort" set to 6970 instead of 6969
         </p>
         <p>
-          {ghLink("l0ud", "main", "SlimeVR-Tracker-ESP-BMI270")} - [DEPRECATED]
-          - Use SlimeVR/main instead (Adds support for BMI270)
-        </p>
-        <p>
-          {ghLink("l0ud", "sfusion", "SlimeVR-Tracker-ESP-BMI270")} -
-          [DEPRECATED] - Use SlimeVR/main instead.
-        </p>
-        <p>
-          {ghLink("furrycoding", "sfusion-tuned-mbe-decimation")} - sFusion tuned MBE
-          with sample rates reduced (decimated). Use Shine-Bright-Meow/sfusion-tuned-mbe-decimation if you really need this.
-        </p>
-        <p>
-          {ghLink("furrycoding", "sfusion_mag")} - sFusion with mag support for limited mags and IMUs.
-        </p>
-        <p>
           {ghLink("wigwagwent", "BMI_senscal", "LSM6DSV16X")} - [DEPRECATED] - Use SlimeVR/main instead (Adds support for LSM6DSV)
-        </p>
-        <p>
-          {ghLink("wigwagwent", "lsm6dsv-with-bug-fix", "LSM6DSV16X")} - Adds
-          support for LSM6DSV
         </p>
         <p>
           {ghLink("kounocom", "sfusion-tuned-mbe")} - Meia's sfusion with MBE
@@ -141,14 +122,7 @@ export function FirmwareTool() {
           sFusion with on-off push button
         </p>
         <p>
-          {ghLink("gorbit99", "icm45686-firmware")} - ICM-45686 sFusion
-          firmware
-        </p>
-        <p>
           {ghLink("gorbit99", "gorbits-thing-beta")} - Gorbit's beta test branch
-        </p>
-        <p>
-          {ghLink("gorbit99", "sfusion-mag-support")} - Magnetometer support for sFusion. LSM6DSR + IST8306 working. (ICM-45686 + IST8306 WIP)
         </p>
         <p>
           {ghLink("ErrorBox-0", "main", "slimevr_sfusion_tempcal")} -
@@ -171,8 +145,8 @@ export function FirmwareTool() {
           v0.5.4 Branch with OTA Enabled
         </p>
         <p>
-          {ghLink("Shine-Bright-Meow", "v0.6.0-OTA-Enabled")} - Shine's 
-          v0.6.0 Branch with OTA Enabled
+          {ghLink("Shine-Bright-Meow", "v0.6.2-OTA-Enabled")} - Shine's 
+          v0.6.2 Branch with OTA Enabled
         </p>
       </Alert>
       <Paper

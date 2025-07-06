@@ -11,20 +11,17 @@
       "alt-port-main"
     ]
   },
-  "l0ud": {
-    "SlimeVR-Tracker-ESP-BMI270": ["main", "sfusion"]
-  },
   "furrycoding": {
     "SlimeVR-Tracker-ESP": ["sfusion-tuned-mbe-decimation", "sfusion_mag"]
   },
   "wigwagwent": {
-    "LSM6DSV16X": ["BMI_senscal", "lsm6dsv-with-bug-fix"]
+    "LSM6DSV16X": ["BMI_senscal"]
   },
   "kounocom": {
     "SlimeVR-Tracker-ESP": ["sfusion-tuned-mbe", "gorbits-thing", "sfusion-machine-optimized", "sfusion-bmi160"]
   },
   "gorbit99": {
-    "SlimeVR-Tracker-ESP": ["on-off-button", "icm45686-firmware", "gorbits-thing-beta", "sfusion-mag-support"]
+    "SlimeVR-Tracker-ESP": ["on-off-button", "gorbits-thing-beta"]
   },
   "ErrorBox-0": {
     "slimevr_sfusion_tempcal": ["main"]
@@ -36,6 +33,6 @@
     "SlimeVR-Tracker-ESP": ["venti-led-test"]
   },
   "Shine-Bright-Meow": {
-    "SlimeVR-Tracker-ESP": ["v0.4.0-OTA-Enabled", "v0.5.4-OTA-Enabled", "v0.6.0-OTA-Enabled", "sfusion-tuned-mbe-decimation"]
+    "SlimeVR-Tracker-ESP": ["v0.4.0-OTA-Enabled", "v0.5.4-OTA-Enabled", "v0.6.2-OTA-Enabled", "sfusion-tuned-mbe-decimation"]
   }
 }
