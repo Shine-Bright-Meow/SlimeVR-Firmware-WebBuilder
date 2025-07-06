@@ -81,10 +81,6 @@ export function FirmwareTool() {
           toggle support
         </p>
         <p>
-          {ghLink("ButterscotchV", "v0.3.3-bno-patched")} - Release
-          SlimeVR/v0.3.3 with BNO patched
-        </p>
-        <p>
           {ghLink("ButterscotchV", "mag-enabled-stable")} - The latest stable
           firmware release with 9 DoF ICM20948 and BNO0xx (magnetometer enabled)
         </p>
