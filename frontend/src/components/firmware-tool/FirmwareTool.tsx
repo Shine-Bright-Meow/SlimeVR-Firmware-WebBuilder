@@ -76,29 +76,7 @@ export function FirmwareTool() {
       <Alert variant="outlined" severity="info" sx={{ my: 2 }}>
         SlimeVR/vX.X.X - SlimeVR stable release(s)
         <p>{ghLink("SlimeVR", "main")} - SlimeVR development branch</p>
-        <p>
-          {ghLink("SlimeVR", "feat/magnetometer-toggle")} - BNO08X magnetometer
-          toggle support
-        </p>
-        <p>
-          {ghLink("ButterscotchV", "mag-enabled-stable")} - The latest stable
-          firmware release with 9 DoF ICM20948 and BNO0xx (magnetometer enabled)
-        </p>
-        <p>
-          {ghLink("ButterscotchV", "mag-enabled-main")} - Based off SlimeVR/main
-          with 9 DoF ICM20948 and BNO0xx (magnetometer enabled)
-        </p>
-        <p>
-          {ghLink("ButterscotchV", "alt-port-stable")} - The latest stable
-          firmware release with "trackerPort" set to 6970 instead of 6969
-        </p>
-        <p>
-          {ghLink("ButterscotchV", "alt-port-main")} - Based off SlimeVR/main
-          with "trackerPort" set to 6970 instead of 6969
-        </p>
-        <p>
-          {ghLink("wigwagwent", "BMI_senscal", "LSM6DSV16X")} - [DEPRECATED] - Use SlimeVR/main instead (Adds support for LSM6DSV)
-        </p>
+         <p>{ghLink("SlimeVR", "optimized-params-v2")} - ICM-45686 Optimized Parameters (Use Shine-Bright-Meow/optimized-params-v2)</p>
         <p>
           {ghLink("kounocom", "sfusion-tuned-mbe")} - Meia's sfusion with MBE
           (Motion bias estimation) and some tuned VQF Parameters
@@ -119,10 +97,6 @@ export function FirmwareTool() {
         </p>
         <p>
           {ghLink("gorbit99", "gorbits-thing-beta")} - Gorbit's beta test branch
-        </p>
-        <p>
-          {ghLink("ErrorBox-0", "main", "slimevr_sfusion_tempcal")} -
-          sFusion with Temp Cal
         </p>
         <p>
           {ghLink("Earnhbry000", "main")} - Topaz's 
