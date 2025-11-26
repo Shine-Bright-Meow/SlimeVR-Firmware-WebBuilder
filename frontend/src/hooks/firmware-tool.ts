@@ -89,6 +89,7 @@ const branchRestrictions: any = {
     "Shine-Bright-Meow/v0.5.4-OTA-Enabled",
     "Shine-Bright-Meow/v0.6.2-OTA-Enabled",
     "Shine-Bright-Meow/v0.6.3-OTA-Enabled",
+    "Shine-Bright-Meow/venti",
     "VentiFBT1/venti-led-test",
   ],
   IMU_LSM6DS3TRC: [
@@ -164,6 +165,7 @@ const branchRestrictions: any = {
     "Shine-Bright-Meow/optimized-params-v2-esp32",
     "Shine-Bright-Meow/optimized-params-v2-noclk",
     "Shine-Bright-Meow/sfusion-tuned-mbe-decimation",
+    "Shine-Bright-Meow/venti",
     "Shine-Bright-Meow/v0.5.4-OTA-Enabled",
     "Shine-Bright-Meow/v0.6.2-OTA-Enabled",
     "Shine-Bright-Meow/v0.6.3-OTA-Enabled",
@@ -219,6 +221,7 @@ const branchRestrictions: any = {
     "Shine-Bright-Meow/v0.5.4-OTA-Enabled",
     "Shine-Bright-Meow/v0.6.2-OTA-Enabled",
     "Shine-Bright-Meow/v0.6.3-OTA-Enabled",
+    "Shine-Bright-Meow/venti",
     "VentiFBT1/venti-led-test",
   ],
 };
