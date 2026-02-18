@@ -116,6 +116,7 @@ const branchRestrictions: any = {
     "Shine-Bright-Meow/v0.5.4-OTA-Enabled",
     "Shine-Bright-Meow/v0.6.2-OTA-Enabled",
     "Shine-Bright-Meow/v0.6.3-OTA-Enabled",
+    "Shine-Bright-Meow/venti",
     "VentiFBT1/venti-led-test",
   ],
   IMU_LSM6DSO: [
@@ -142,6 +143,7 @@ const branchRestrictions: any = {
     "Shine-Bright-Meow/v0.5.4-OTA-Enabled",
     "Shine-Bright-Meow/v0.6.2-OTA-Enabled",
     "Shine-Bright-Meow/v0.6.3-OTA-Enabled",
+    "Shine-Bright-Meow/venti",
     "VentiFBT1/venti-led-test",
   ],
   IMU_LSM6DSV: [
@@ -169,6 +171,7 @@ const branchRestrictions: any = {
     "Shine-Bright-Meow/v0.5.4-OTA-Enabled",
     "Shine-Bright-Meow/v0.6.2-OTA-Enabled",
     "Shine-Bright-Meow/v0.6.3-OTA-Enabled",
+    "Shine-Bright-Meow/venti",
     "VentiFBT1/venti-led-test",
   ],
   IMU_MPU6050_SF: [
@@ -195,6 +198,7 @@ const branchRestrictions: any = {
     "Shine-Bright-Meow/v0.5.4-OTA-Enabled",
     "Shine-Bright-Meow/v0.6.2-OTA-Enabled",
     "Shine-Bright-Meow/v0.6.3-OTA-Enabled",
+    "Shine-Bright-Meow/venti",
     "VentiFBT1/venti-led-test",
   ],
   IMU_ICM45686: [

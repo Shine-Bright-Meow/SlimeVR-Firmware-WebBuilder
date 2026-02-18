@@ -107,6 +107,10 @@ export function FirmwareTool() {
           Second Dose of Estrogen with a sprinkle of MBE Tracker Firmware
         </p>
         <p>
+          {ghLink("Shine-Bright-Meow", "main")} - Shine's 
+          custom branch based on SlimeVR's main branch (0.7.0+) that is webflasher compatible. (No AUX Suport)
+        </p>
+        <p>
           {ghLink("Shine-Bright-Meow", "v0.4.0-OTA-Enabled")} - Shine's 
           v0.4.0 Branch with OTA Enabled
         </p>
