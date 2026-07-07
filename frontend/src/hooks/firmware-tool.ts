@@ -91,6 +91,7 @@ const branchRestrictions: any = {
     "Shine-Bright-Meow/v0.6.3-OTA-Enabled",
     "Shine-Bright-Meow/venti",
     "VentiFBT1/venti-led-test",
+    "Shine-Bright-Meow/espnow",
   ],
   IMU_LSM6DS3TRC: [
     "Earnhbry000/main",
@@ -118,6 +119,7 @@ const branchRestrictions: any = {
     "Shine-Bright-Meow/v0.6.3-OTA-Enabled",
     "Shine-Bright-Meow/venti",
     "VentiFBT1/venti-led-test",
+    "Shine-Bright-Meow/espnow",
   ],
   IMU_LSM6DSO: [
     "Earnhbry000/main",
@@ -145,6 +147,7 @@ const branchRestrictions: any = {
     "Shine-Bright-Meow/v0.6.3-OTA-Enabled",
     "Shine-Bright-Meow/venti",
     "VentiFBT1/venti-led-test",
+    "Shine-Bright-Meow/espnow",
   ],
   IMU_LSM6DSV: [
     "Earnhbry000/main",
@@ -173,6 +176,7 @@ const branchRestrictions: any = {
     "Shine-Bright-Meow/v0.6.3-OTA-Enabled",
     "Shine-Bright-Meow/venti",
     "VentiFBT1/venti-led-test",
+    "Shine-Bright-Meow/espnow",
   ],
   IMU_MPU6050_SF: [
     "Earnhbry000/main",
@@ -200,6 +204,7 @@ const branchRestrictions: any = {
     "Shine-Bright-Meow/v0.6.3-OTA-Enabled",
     "Shine-Bright-Meow/venti",
     "VentiFBT1/venti-led-test",
+    "Shine-Bright-Meow/espnow",
   ],
   IMU_ICM45686: [
     "Earnhbry000/main",
@@ -227,6 +232,7 @@ const branchRestrictions: any = {
     "Shine-Bright-Meow/v0.6.3-OTA-Enabled",
     "Shine-Bright-Meow/venti",
     "VentiFBT1/venti-led-test",
+    "Shine-Bright-Meow/espnow",
   ],
 };
 

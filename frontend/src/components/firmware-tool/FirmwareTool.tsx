@@ -126,6 +126,9 @@ export function FirmwareTool() {
           {ghLink("Shine-Bright-Meow", "v0.6.3-OTA-Enabled")} - Shine's 
           v0.6.3 Branch with OTA Enabled
         </p>
+        <p>
+          {ghLink("Shine-Bright-Meow", "espnow")} - ESPNOW Dongle Support Branch (v0.7.2)
+        </p>
       </Alert>
       <Paper
         variant="outlined"
